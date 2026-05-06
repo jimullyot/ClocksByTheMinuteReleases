@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-04T01:47:37Z",
+  "generatedAt": "2026-05-06T00:24:01Z",
   "release": {
-    "version": "1.10.0",
+    "version": "1.10.1",
     "channel": "stable",
-    "publishedAt": "2026-05-04T01:11:46Z",
-    "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v1.10.0/ScriptureTime-1.10.0.bin",
-    "sha256": "d43a106687a7fe7fae7dc5444513cc28d09f3d316089679399910711e769b1b2",
-    "size": 2462928,
+    "publishedAt": "2026-05-06T00:24:01Z",
+    "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v1.10.1/ScriptureTime-1.10.1.bin",
+    "sha256": "63aaacd7d30cafa42176ea35e2646ccf1c82175a7d2abfc9f8f5930896de2749",
+    "size": 2467888,
     "deprecated": false,
     "invalid": false,
     "replacementVersion": "",
     "reason": "",
     "changelog": {
       "improvements": [
-        "Adding a new bible translation, the World English Bible (WEB)"
+        "Better resiliency on dynamic date time refreshing and tracking if something goes wrong."
       ],
       "fixes": [],
       "notes": []

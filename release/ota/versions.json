@@ -1,7 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-04T01:47:37Z",
+  "generatedAt": "2026-05-06T00:24:01Z",
   "releases": [
+    {
+      "version": "1.10.1",
+      "channel": "stable",
+      "publishedAt": "2026-05-06T00:24:01Z",
+      "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v1.10.1/ScriptureTime-1.10.1.bin",
+      "sha256": "63aaacd7d30cafa42176ea35e2646ccf1c82175a7d2abfc9f8f5930896de2749",
+      "size": 2467888,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
+      "changelog": {
+        "improvements": [
+          "Better resiliency on dynamic date time refreshing and tracking if something goes wrong."
+        ],
+        "fixes": [],
+        "notes": []
+      },
+      "chunkSize": 131072,
+      "chunkCount": 19
+    },
     {
       "version": "1.10.0",
       "channel": "stable",
