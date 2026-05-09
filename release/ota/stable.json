@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-06T00:24:01Z",
+  "generatedAt": "2026-05-09T03:05:47Z",
   "release": {
-    "version": "1.10.1",
+    "version": "1.10.2",
     "channel": "stable",
-    "publishedAt": "2026-05-06T00:24:01Z",
-    "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v1.10.1/ScriptureTime-1.10.1.bin",
-    "sha256": "63aaacd7d30cafa42176ea35e2646ccf1c82175a7d2abfc9f8f5930896de2749",
-    "size": 2467888,
+    "publishedAt": "2026-05-09T03:05:47Z",
+    "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v1.10.2/ScriptureTime-1.10.2.bin",
+    "sha256": "aa89e1a9fa8516fa631a78ebb4284043bdffc28b0c23e95908cb6dcd84a43c15",
+    "size": 2469184,
     "deprecated": false,
     "invalid": false,
     "replacementVersion": "",
     "reason": "",
     "changelog": {
       "improvements": [
-        "Better resiliency on dynamic date time refreshing and tracking if something goes wrong."
+        "Can now see daily time sync logs on the about screen when tapping on the version."
       ],
       "fixes": [],
       "notes": []
