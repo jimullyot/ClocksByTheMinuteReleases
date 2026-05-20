@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-20T03:36:14Z",
+  "generatedAt": "2026-05-20T03:36:26Z",
   "releases": [
     {
       "version": "2.0.1",
@@ -16,28 +16,6 @@
       "changelog": {
         "improvements": [
           "UI re-do using new development studio.",
-          "New holiday icons."
-        ],
-        "fixes": [],
-        "notes": []
-      },
-      "chunkSize": 131072,
-      "chunkCount": 22
-    },
-    {
-      "version": "2.0.0",
-      "channel": "stable",
-      "publishedAt": "2026-05-20T03:33:01Z",
-      "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v2.0.0/ScriptureTime-2.0.0.bin",
-      "sha256": "65e19f9e72188da80fc58681e6cfd0843020fd06988999dd20ce74671364d31f",
-      "size": 2861648,
-      "deprecated": false,
-      "invalid": false,
-      "replacementVersion": "",
-      "reason": "",
-      "changelog": {
-        "improvements": [
-          "Swapped out underlying development studio used to for Scripture Time.",
           "New holiday icons."
         ],
         "fixes": [],
