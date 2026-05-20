@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-20T03:33:01Z",
+  "generatedAt": "2026-05-20T03:34:10Z",
   "releases": [
     {
       "version": "2.0.0",
@@ -23,27 +23,6 @@
       },
       "chunkSize": 131072,
       "chunkCount": 22
-    },
-    {
-      "version": "1.10.3",
-      "channel": "stable",
-      "publishedAt": "2026-05-09T14:26:50Z",
-      "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v1.10.3/ScriptureTime-1.10.3.bin",
-      "sha256": "5bca0f82a6dcb0fa2f8f080e6786b3e2dd24b6627655aa3896abe43a1d7c9fbf",
-      "size": 2469472,
-      "deprecated": false,
-      "invalid": false,
-      "replacementVersion": "",
-      "reason": "",
-      "changelog": {
-        "improvements": [],
-        "fixes": [
-          "Fixed a problem setting the date manuallyl on the datetime settings screen."
-        ],
-        "notes": []
-      },
-      "chunkSize": 131072,
-      "chunkCount": 19
     }
   ]
 }
