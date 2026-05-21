@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-21T02:12:40Z",
+  "generatedAt": "2026-05-21T02:12:53Z",
   "releases": [
     {
       "version": "2.1.0",
@@ -22,28 +22,6 @@
       },
       "chunkSize": 131072,
       "chunkCount": 23
-    },
-    {
-      "version": "2.0.1",
-      "channel": "stable",
-      "publishedAt": "2026-05-20T03:36:14Z",
-      "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v2.0.1/ScriptureTime-2.0.1.bin",
-      "sha256": "8a5e738701b0a782e69af9fa6eb5005d05b7289aace11cfda2efa11088a6cbc5",
-      "size": 2861648,
-      "deprecated": false,
-      "invalid": false,
-      "replacementVersion": "",
-      "reason": "",
-      "changelog": {
-        "improvements": [
-          "UI re-do using new development studio.",
-          "New holiday icons."
-        ],
-        "fixes": [],
-        "notes": []
-      },
-      "chunkSize": 131072,
-      "chunkCount": 22
     }
   ]
 }
