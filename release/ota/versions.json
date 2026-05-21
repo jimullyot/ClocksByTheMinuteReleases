@@ -1,7 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-20T03:36:26Z",
+  "generatedAt": "2026-05-21T02:12:40Z",
   "releases": [
+    {
+      "version": "2.1.0",
+      "channel": "stable",
+      "publishedAt": "2026-05-21T02:12:40Z",
+      "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v2.1.0/ScriptureTime-2.1.0.bin",
+      "sha256": "05786f73ff5ef7f27047e437d349513c4a9e305a0be71ba5761784335fa21a56",
+      "size": 2909888,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
+      "changelog": {
+        "improvements": [],
+        "fixes": [
+          "Fixing problem with chapter view going to new chapter and verse instead of staying on current chapter and verse."
+        ],
+        "notes": []
+      },
+      "chunkSize": 131072,
+      "chunkCount": 23
+    },
     {
       "version": "2.0.1",
       "channel": "stable",
