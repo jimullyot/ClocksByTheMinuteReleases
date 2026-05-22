@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-22T11:41:34Z",
+  "generatedAt": "2026-05-22T11:41:40Z",
   "releases": [
     {
       "version": "2.3.1",
@@ -41,31 +41,6 @@
           "More fixups on verse display text that were causing newlines when it shouldn't have been"
         ],
         "notes": []
-      },
-      "chunkSize": 131072,
-      "chunkCount": 23
-    },
-    {
-      "version": "2.2.0",
-      "channel": "stable",
-      "publishedAt": "2026-05-22T03:03:38Z",
-      "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v2.2.0/ScriptureTime-2.2.0.bin",
-      "sha256": "474c30b91f77fb19ff53e5773a7317ab839521ef4c76dddc215d6fb8671856c8",
-      "size": 2911520,
-      "deprecated": false,
-      "invalid": false,
-      "replacementVersion": "",
-      "reason": "",
-      "changelog": {
-        "improvements": [
-          "About screen system info improvements"
-        ],
-        "fixes": [
-          "Fixing red letter rendering problems"
-        ],
-        "notes": [
-          "Verse numbers are now in grey."
-        ]
       },
       "chunkSize": 131072,
       "chunkCount": 23
