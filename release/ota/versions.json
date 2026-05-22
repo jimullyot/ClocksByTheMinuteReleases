@@ -1,7 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-22T11:41:40Z",
+  "generatedAt": "2026-05-22T12:01:01Z",
   "releases": [
+    {
+      "version": "2.3.3",
+      "channel": "stable",
+      "publishedAt": "2026-05-22T12:01:01Z",
+      "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v2.3.3/ScriptureTime-2.3.3.bin",
+      "sha256": "0dd0fea86d59ec67abc3a17f4fc4c57b9ff1f497b319c9436f025fe76f82ba2d",
+      "size": 2913824,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
+      "changelog": {
+        "improvements": [],
+        "fixes": [
+          "Fixing a problem where switching to chapter mode would go to verse 1 rather than the current verse being displayed in verse mode."
+        ],
+        "notes": []
+      },
+      "chunkSize": 131072,
+      "chunkCount": 23
+    },
     {
       "version": "2.3.1",
       "channel": "stable",
