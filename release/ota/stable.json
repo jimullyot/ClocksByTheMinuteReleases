@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-22T11:36:48Z",
+  "generatedAt": "2026-05-22T11:41:23Z",
   "release": {
-    "version": "2.3.0",
+    "version": "2.3.1",
     "channel": "stable",
-    "publishedAt": "2026-05-22T11:36:48Z",
-    "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v2.3.0/ScriptureTime-2.3.0.bin",
-    "sha256": "899198db447ad171fcc2dd6b974599a449264b863d0ad8ff303ebcb465c964f1",
+    "publishedAt": "2026-05-22T11:41:23Z",
+    "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v2.3.1/ScriptureTime-2.3.1.bin",
+    "sha256": "96cf9a5b8ee94a0eff16c6981a5fc1ecc3cfc7ec41e31988a053333deea3d816",
     "size": 2913840,
     "deprecated": false,
     "invalid": false,
@@ -15,8 +15,7 @@
     "changelog": {
       "improvements": [],
       "fixes": [
-        "Fixed issues not setting the font size correctly when changed on the General Settings page.",
-        "More fixups on verse display text that were causing newlines when it shouldn't have been"
+        "Adjusted holiday right image on main screen so it is shifted downward slightly."
       ],
       "notes": []
     },
