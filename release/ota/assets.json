@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "component": "assets",
+  "generatedAt": "2026-05-22T21:58:31Z",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "channel": "stable",
+      "publishedAt": "2026-05-22T21:58:31Z",
+      "bundleUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/assets-v1.0.0/assets-1.0.0.zip",
+      "bundleFilename": "assets-1.0.0.zip",
+      "sha256": "2679cc3d911ef9e4005e214842e9c91d614def1d04ec8ead4806162f45f2c74e",
+      "size": 1154431,
+      "uncompressedSize": 1150841,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
+      "changelog": {
+        "improvements": [
+          "Initial assets bundle: holiday icons and pre-rendered scripture backdrop are now updatable independently of the firmware.",
+          "Bundles 22 holiday icon pairs (Christmas, Easter, Advent, Lent, Pentecost, All Saints, and more) plus the bible_920x465 backdrop image."
+        ],
+        "fixes": [],
+        "notes": [
+          "Installs to /images/ on LittleFS via atomic staging + directory swap; the existing holiday images stay in place until the new bundle is fully downloaded and unpacked."
+        ]
+      },
+      "chunkSize": 131072,
+      "chunkCount": 9,
+      "chunkUrlExample": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/assets-v1.0.0/assets-v1.0.0_chunk_01_of_09.bin"
+    }
+  ]
+}
