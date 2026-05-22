@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-05-22T21:59:07Z",
+  "translations": {
+    "web": {
+      "id": "web",
+      "displayName": "World English Bible (Protestant Edition)",
+      "shortName": "WEB",
+      "license": "public-domain",
+      "otaAvailable": true,
+      "releases": [
+        {
+          "version": "1.0.0",
+          "channel": "stable",
+          "publishedAt": "2026-05-22T21:59:07Z",
+          "bundleUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/bible-web-v1.0.0/bible-web-1.0.0.zip",
+          "bundleFilename": "bible-web-1.0.0.zip",
+          "sha256": "0f3c1ce3f233e2b6cbc1ad2332a9d96b36a64b7e34b5451c7f28d48b1441d270",
+          "size": 1458939,
+          "uncompressedSize": 5975247,
+          "deprecated": false,
+          "invalid": false,
+          "replacementVersion": "",
+          "reason": "",
+          "changelog": {
+            "improvements": [
+              "Initial WEB (World English Bible, Protestant Edition) bundle.",
+              "All 66 books plus on-the-hour emphasis verses, packaged as compressed ZIPs ready for direct LittleFS install."
+            ],
+            "fixes": [],
+            "notes": [
+              "WEB is in the public domain, so this bundle is freely redistributable.",
+              "Installs to /bible-web/ on LittleFS via atomic staging + directory swap; if a previous WEB install is present it stays in place until the new bundle is fully downloaded and unpacked."
+            ]
+          },
+          "chunkSize": 131072,
+          "chunkCount": 12,
+          "chunkUrlExample": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/bible-web-v1.0.0/bible-web-v1.0.0_chunk_01_of_12.bin",
+          "translationId": "web"
+        }
+      ]
+    }
+  }
+}
