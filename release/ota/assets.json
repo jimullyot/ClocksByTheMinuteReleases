@@ -1,8 +1,32 @@
 {
   "schemaVersion": 1,
   "component": "assets",
-  "generatedAt": "2026-05-22T21:58:31Z",
+  "generatedAt": "2026-05-23T13:36:54Z",
   "releases": [
+    {
+      "version": "1.1.0",
+      "channel": "stable",
+      "publishedAt": "2026-05-23T13:36:54Z",
+      "bundleUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/assets-v1.1.0/assets-1.1.0.zip",
+      "bundleFilename": "assets-1.1.0.zip",
+      "sha256": "fd737df480191093f3c2c611a1a92f65c9cead744dd49302e363ccb8c9ee554a",
+      "size": 1281623,
+      "uncompressedSize": 1277049,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
+      "changelog": {
+        "improvements": [
+          "Adding new icons for Settings screen."
+        ],
+        "fixes": [],
+        "notes": []
+      },
+      "chunkSize": 131072,
+      "chunkCount": 10,
+      "chunkUrlExample": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/assets-v1.1.0/assets-v1.1.0_chunk_01_of_10.bin"
+    },
     {
       "version": "1.0.0",
       "channel": "stable",
