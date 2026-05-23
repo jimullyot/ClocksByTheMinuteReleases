@@ -1,22 +1,24 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-22T21:28:27Z",
+  "generatedAt": "2026-05-23T02:53:30Z",
   "release": {
-    "version": "2.3.4",
+    "version": "2.4.0",
     "channel": "stable",
-    "publishedAt": "2026-05-22T21:28:27Z",
-    "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v2.3.4/ScriptureTime-2.3.4.bin",
-    "sha256": "d225fefd6ab0be3ec16edf962ef597c4c3b014fe8455f44bc9597621ff3b37d1",
-    "size": 2913824,
+    "publishedAt": "2026-05-23T02:53:30Z",
+    "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v2.4.0/ScriptureTime-2.4.0.bin",
+    "sha256": "2d6cce73f1ae40e60b8c8953565014d93aa1d7715a283b00891d877232289674",
+    "size": 2949584,
     "deprecated": false,
     "invalid": false,
     "replacementVersion": "",
     "reason": "",
     "changelog": {
       "improvements": [
-        "Move right holiday icon down lower on main screen."
+        "A bunch of visual color improvements."
       ],
-      "fixes": [],
+      "fixes": [
+        "Fixed display mode changes not applying."
+      ],
       "notes": []
     },
     "chunkSize": 131072,
