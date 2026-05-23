@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T15:53:38Z",
+  "generatedAt": "2026-05-23T15:53:43Z",
   "releases": [
     {
       "version": "2.5.1",
@@ -45,29 +45,6 @@
       },
       "chunkSize": 131072,
       "chunkCount": 24
-    },
-    {
-      "version": "2.4.0",
-      "channel": "stable",
-      "publishedAt": "2026-05-23T02:53:30Z",
-      "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v2.4.0/ScriptureTime-2.4.0.bin",
-      "sha256": "2d6cce73f1ae40e60b8c8953565014d93aa1d7715a283b00891d877232289674",
-      "size": 2949584,
-      "deprecated": false,
-      "invalid": false,
-      "replacementVersion": "",
-      "reason": "",
-      "changelog": {
-        "improvements": [
-          "A bunch of visual color improvements."
-        ],
-        "fixes": [
-          "Fixed display mode changes not applying."
-        ],
-        "notes": []
-      },
-      "chunkSize": 131072,
-      "chunkCount": 23
     }
   ]
 }
