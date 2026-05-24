@@ -1,8 +1,32 @@
 {
   "schemaVersion": 1,
   "component": "assets",
-  "generatedAt": "2026-05-24T09:58:42Z",
+  "generatedAt": "2026-05-24T11:50:57Z",
   "releases": [
+    {
+      "version": "1.1.4",
+      "channel": "stable",
+      "publishedAt": "2026-05-24T11:50:57Z",
+      "bundleUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/assets-v1.1.4/assets-1.1.4.zip",
+      "bundleFilename": "assets-1.1.4.zip",
+      "sha256": "3b3529fe617d6bc0272f81a103eeeba92ad9dd7dac462dfda615dd63575d9f28",
+      "size": 1278308,
+      "uncompressedSize": 1273734,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
+      "changelog": {
+        "improvements": [
+          "Updated Easter image"
+        ],
+        "fixes": [],
+        "notes": []
+      },
+      "chunkSize": 131072,
+      "chunkCount": 10,
+      "chunkUrlExample": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/assets-v1.1.4/assets-v1.1.4_chunk_01_of_10.bin"
+    },
     {
       "version": "1.1.2",
       "channel": "stable",
