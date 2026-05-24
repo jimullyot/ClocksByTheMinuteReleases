@@ -1,8 +1,32 @@
 {
   "schemaVersion": 1,
   "component": "assets",
-  "generatedAt": "2026-05-24T11:50:57Z",
+  "generatedAt": "2026-05-24T21:13:26Z",
   "releases": [
+    {
+      "version": "1.1.5",
+      "channel": "stable",
+      "publishedAt": "2026-05-24T21:13:26Z",
+      "bundleUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/assets-v1.1.5/assets-1.1.5.zip",
+      "bundleFilename": "assets-1.1.5.zip",
+      "sha256": "3699d1a91c3a42728b1e04f448227ce15f6af39415528647f03ec68206416c4a",
+      "size": 1446112,
+      "uncompressedSize": 1441064,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
+      "changelog": {
+        "improvements": [
+          "Adding update images for app updating, asset updating and Bible data."
+        ],
+        "fixes": [],
+        "notes": []
+      },
+      "chunkSize": 131072,
+      "chunkCount": 12,
+      "chunkUrlExample": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/assets-v1.1.5/assets-v1.1.5_chunk_01_of_12.bin"
+    },
     {
       "version": "1.1.4",
       "channel": "stable",
