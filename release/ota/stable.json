@@ -1,27 +1,25 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-23T15:53:43Z",
+  "generatedAt": "2026-05-24T11:53:04Z",
   "release": {
-    "version": "2.5.1",
+    "version": "2.6.0",
     "channel": "stable",
-    "publishedAt": "2026-05-23T15:53:03Z",
-    "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v2.5.1/ScriptureTime-2.5.1.bin",
-    "sha256": "ce151c62df897bbccb24e36aa2d69719348f0e7b7a5aba445da5166138226bab",
-    "size": 3016448,
+    "publishedAt": "2026-05-24T11:53:04Z",
+    "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v2.6.0/ScriptureTime-2.6.0.bin",
+    "sha256": "49486cc6f480fb1d790bc9c0e20a2d08816ad54f3be491b316abb7d596c884ba",
+    "size": 2947056,
     "deprecated": false,
     "invalid": false,
     "replacementVersion": "",
     "reason": "",
     "changelog": {
       "improvements": [
-        "Small fixup to general settings page on layout of controls."
+        "Added swipe support on settings pages for quick switching."
       ],
-      "fixes": [
-        "Gesture left support added to main screen to go to main settings page fix."
-      ],
+      "fixes": [],
       "notes": []
     },
     "chunkSize": 131072,
-    "chunkCount": 24
+    "chunkCount": 23
   }
 }
