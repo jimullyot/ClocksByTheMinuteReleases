@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-24T11:53:04Z",
+  "generatedAt": "2026-05-24T23:05:13Z",
   "release": {
-    "version": "2.6.0",
+    "version": "2.7.0",
     "channel": "stable",
-    "publishedAt": "2026-05-24T11:53:04Z",
-    "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v2.6.0/ScriptureTime-2.6.0.bin",
-    "sha256": "49486cc6f480fb1d790bc9c0e20a2d08816ad54f3be491b316abb7d596c884ba",
-    "size": 2947056,
+    "publishedAt": "2026-05-24T23:05:13Z",
+    "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v2.7.0/ScriptureTime-2.7.0.bin",
+    "sha256": "3c22b872880a271f359d057c7fdf62c45b7b08622e12da15a19c442bc35fb941",
+    "size": 2959376,
     "deprecated": false,
     "invalid": false,
     "replacementVersion": "",
     "reason": "",
     "changelog": {
       "improvements": [
-        "Added swipe support on settings pages for quick switching."
+        "Better update handling"
       ],
       "fixes": [],
       "notes": []
