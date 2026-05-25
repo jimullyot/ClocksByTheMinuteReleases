@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-25T21:02:19Z",
+  "generatedAt": "2026-05-25T21:02:25Z",
   "releases": [
     {
       "version": "2.8.2",
@@ -39,28 +39,6 @@
         "fixes": [
           "Fixes a bug on the about screen where clicking on the gear didn't take you back to the main settings screen."
         ],
-        "notes": []
-      },
-      "chunkSize": 131072,
-      "chunkCount": 23
-    },
-    {
-      "version": "2.8.0",
-      "channel": "stable",
-      "publishedAt": "2026-05-25T15:30:01Z",
-      "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v2.8.0/ScriptureTime-2.8.0.bin",
-      "sha256": "a53e57d07d7c7992f337dd74c571ba09a7bb468d96b853e6088b943283b7c72e",
-      "size": 2991568,
-      "deprecated": false,
-      "invalid": false,
-      "replacementVersion": "",
-      "reason": "",
-      "changelog": {
-        "improvements": [
-          "Much enhanced update experience.",
-          "Ability to reset installed versions."
-        ],
-        "fixes": [],
         "notes": []
       },
       "chunkSize": 131072,
