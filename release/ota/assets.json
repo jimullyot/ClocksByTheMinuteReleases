@@ -1,8 +1,32 @@
 {
   "schemaVersion": 1,
   "component": "assets",
-  "generatedAt": "2026-05-24T21:13:26Z",
+  "generatedAt": "2026-05-25T15:27:47Z",
   "releases": [
+    {
+      "version": "1.1.6",
+      "channel": "stable",
+      "publishedAt": "2026-05-25T15:27:47Z",
+      "bundleUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/assets-v1.1.6/assets-1.1.6.zip",
+      "bundleFilename": "assets-1.1.6.zip",
+      "sha256": "3290b1702287c0871b25c1805ff94d0fb15136a1905ce4fb0aaf40d3f938d3a5",
+      "size": 1447896,
+      "uncompressedSize": 1442848,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
+      "changelog": {
+        "improvements": [
+          "Updated clock settings image."
+        ],
+        "fixes": [],
+        "notes": []
+      },
+      "chunkSize": 131072,
+      "chunkCount": 12,
+      "chunkUrlExample": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/assets-v1.1.6/assets-v1.1.6_chunk_01_of_12.bin"
+    },
     {
       "version": "1.1.5",
       "channel": "stable",
