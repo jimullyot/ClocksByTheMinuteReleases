@@ -1,8 +1,32 @@
 {
   "schemaVersion": 1,
   "component": "assets",
-  "generatedAt": "2026-05-25T15:27:47Z",
+  "generatedAt": "2026-05-25T20:26:21Z",
   "releases": [
+    {
+      "version": "1.1.7",
+      "channel": "stable",
+      "publishedAt": "2026-05-25T20:26:21Z",
+      "bundleUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/assets-v1.1.7/assets-1.1.7.zip",
+      "bundleFilename": "assets-1.1.7.zip",
+      "sha256": "83669bd9feefd21e7a337382b87e3086aa859087bb4de483114aa35d066f1fb1",
+      "size": 1472487,
+      "uncompressedSize": 1467275,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
+      "changelog": {
+        "improvements": [
+          "Added a Holidays image for new Holiday settings page."
+        ],
+        "fixes": [],
+        "notes": []
+      },
+      "chunkSize": 131072,
+      "chunkCount": 12,
+      "chunkUrlExample": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/assets-v1.1.7/assets-v1.1.7_chunk_01_of_12.bin"
+    },
     {
       "version": "1.1.6",
       "channel": "stable",
