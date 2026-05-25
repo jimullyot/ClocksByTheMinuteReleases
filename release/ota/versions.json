@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-25T21:02:08Z",
+  "generatedAt": "2026-05-25T21:02:14Z",
   "releases": [
     {
       "version": "2.8.2",
@@ -80,27 +80,6 @@
       "changelog": {
         "improvements": [
           "Better update handling"
-        ],
-        "fixes": [],
-        "notes": []
-      },
-      "chunkSize": 131072,
-      "chunkCount": 23
-    },
-    {
-      "version": "2.6.0",
-      "channel": "stable",
-      "publishedAt": "2026-05-24T11:53:04Z",
-      "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v2.6.0/ScriptureTime-2.6.0.bin",
-      "sha256": "49486cc6f480fb1d790bc9c0e20a2d08816ad54f3be491b316abb7d596c884ba",
-      "size": 2947056,
-      "deprecated": false,
-      "invalid": false,
-      "replacementVersion": "",
-      "reason": "",
-      "changelog": {
-        "improvements": [
-          "Added swipe support on settings pages for quick switching."
         ],
         "fixes": [],
         "notes": []
