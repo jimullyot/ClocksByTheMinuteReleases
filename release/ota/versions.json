@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-25T21:01:58Z",
+  "generatedAt": "2026-05-25T21:02:08Z",
   "releases": [
     {
       "version": "2.8.2",
@@ -107,29 +107,6 @@
       },
       "chunkSize": 131072,
       "chunkCount": 23
-    },
-    {
-      "version": "2.5.1",
-      "channel": "stable",
-      "publishedAt": "2026-05-23T15:53:03Z",
-      "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v2.5.1/ScriptureTime-2.5.1.bin",
-      "sha256": "ce151c62df897bbccb24e36aa2d69719348f0e7b7a5aba445da5166138226bab",
-      "size": 3016448,
-      "deprecated": false,
-      "invalid": false,
-      "replacementVersion": "",
-      "reason": "",
-      "changelog": {
-        "improvements": [
-          "Small fixup to general settings page on layout of controls."
-        ],
-        "fixes": [
-          "Gesture left support added to main screen to go to main settings page fix."
-        ],
-        "notes": []
-      },
-      "chunkSize": 131072,
-      "chunkCount": 24
     }
   ]
 }
