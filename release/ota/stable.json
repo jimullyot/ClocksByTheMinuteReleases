@@ -1,21 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-30T11:29:06Z",
+  "generatedAt": "2026-05-30T13:39:46Z",
   "release": {
-    "version": "3.0.2",
+    "version": "3.0.3",
     "channel": "stable",
-    "publishedAt": "2026-05-30T11:28:03Z",
-    "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v3.0.2/ScriptureTime-3.0.2.bin",
-    "sha256": "c0eb2ab6b694bd1cef397590e3e710afb73c4a96315fe0fa9163573561a126f6",
-    "size": 3029200,
+    "publishedAt": "2026-05-30T13:39:46Z",
+    "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v3.0.3/ScriptureTime-3.0.3.bin",
+    "sha256": "238d6e06be520e29fb4625ca48f3f168c8254af420d59c72f54c962a4a4af012",
+    "size": 3031024,
     "deprecated": false,
     "invalid": false,
     "replacementVersion": "",
     "reason": "",
     "changelog": {
       "improvements": [
-        "Small UI tweaks on reset content dialog to use centered text.",
-        "Button label updates on settings main screen to be more readable in light mode."
+        "Better handling of network connection issues during setup tour."
       ],
       "fixes": [],
       "notes": []

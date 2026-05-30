@@ -1,7 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-30T11:29:06Z",
+  "generatedAt": "2026-05-30T13:39:46Z",
   "releases": [
+    {
+      "version": "3.0.3",
+      "channel": "stable",
+      "publishedAt": "2026-05-30T13:39:46Z",
+      "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v3.0.3/ScriptureTime-3.0.3.bin",
+      "sha256": "238d6e06be520e29fb4625ca48f3f168c8254af420d59c72f54c962a4a4af012",
+      "size": 3031024,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
+      "changelog": {
+        "improvements": [
+          "Better handling of network connection issues during setup tour."
+        ],
+        "fixes": [],
+        "notes": []
+      },
+      "chunkSize": 131072,
+      "chunkCount": 24
+    },
     {
       "version": "3.0.2",
       "channel": "stable",
