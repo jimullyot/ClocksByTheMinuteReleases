@@ -1,25 +1,26 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-25T21:04:08Z",
+  "generatedAt": "2026-05-30T11:16:50Z",
   "release": {
-    "version": "2.9.0",
+    "version": "3.0.0",
     "channel": "stable",
-    "publishedAt": "2026-05-25T21:04:08Z",
-    "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v2.9.0/ScriptureTime-2.9.0.bin",
-    "sha256": "27afe0ec0fbd22f1c1373eb0a25bb91efe39d8929fb2d018782f5fc5d79f88b3",
-    "size": 3003168,
+    "publishedAt": "2026-05-30T11:16:50Z",
+    "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v3.0.0/ScriptureTime-3.0.0.bin",
+    "sha256": "2dabf294db211c00c4a51731d35f5974f3330aa083cc3e426c9bae871352fc85",
+    "size": 3029200,
     "deprecated": false,
     "invalid": false,
     "replacementVersion": "",
     "reason": "",
     "changelog": {
       "improvements": [
-        "Added a new Holiday Settings screen where you can choose what holidays to show on the clock."
+        "Very improved startup onboarding tour / setup.",
+        "Hold down on opposite corners at startup to enter rescue mode for reset."
       ],
       "fixes": [],
       "notes": []
     },
     "chunkSize": 131072,
-    "chunkCount": 23
+    "chunkCount": 24
   }
 }
