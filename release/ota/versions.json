@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-30T11:24:52Z",
+  "generatedAt": "2026-05-30T11:24:57Z",
   "releases": [
     {
       "version": "3.0.1",
@@ -16,28 +16,6 @@
       "changelog": {
         "improvements": [
           "Updated button label color on Settings Main screen buttons."
-        ],
-        "fixes": [],
-        "notes": []
-      },
-      "chunkSize": 131072,
-      "chunkCount": 24
-    },
-    {
-      "version": "3.0.0",
-      "channel": "stable",
-      "publishedAt": "2026-05-30T11:16:50Z",
-      "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v3.0.0/ScriptureTime-3.0.0.bin",
-      "sha256": "2dabf294db211c00c4a51731d35f5974f3330aa083cc3e426c9bae871352fc85",
-      "size": 3029200,
-      "deprecated": false,
-      "invalid": false,
-      "replacementVersion": "",
-      "reason": "",
-      "changelog": {
-        "improvements": [
-          "Very improved startup onboarding tour / setup.",
-          "Hold down on opposite corners at startup to enter rescue mode for reset."
         ],
         "fixes": [],
         "notes": []
