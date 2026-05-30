@@ -1,7 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-30T11:16:50Z",
+  "generatedAt": "2026-05-30T11:20:33Z",
   "releases": [
+    {
+      "version": "3.0.1",
+      "channel": "stable",
+      "publishedAt": "2026-05-30T11:20:33Z",
+      "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v3.0.1/ScriptureTime-3.0.1.bin",
+      "sha256": "8a6e56cfb2066d93d54c126aaaa699e7239587fff9db69ecf07f644299dfe6c9",
+      "size": 3029200,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
+      "changelog": {
+        "improvements": [
+          "Updated button label color on Settings Main screen buttons."
+        ],
+        "fixes": [],
+        "notes": []
+      },
+      "chunkSize": 131072,
+      "chunkCount": 24
+    },
     {
       "version": "3.0.0",
       "channel": "stable",
