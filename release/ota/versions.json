@@ -1,7 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-30T13:39:59Z",
+  "generatedAt": "2026-05-31T03:31:15Z",
   "releases": [
+    {
+      "version": "3.0.4",
+      "channel": "stable",
+      "publishedAt": "2026-05-31T03:31:15Z",
+      "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v3.0.4/ScriptureTime-3.0.4.bin",
+      "sha256": "dc2403e27354005572f532660cff56ea088706ef30ac875c2a76cc189377d2e3",
+      "size": 3030880,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
+      "changelog": {
+        "improvements": [
+          "No longer does tour on every new release."
+        ],
+        "fixes": [],
+        "notes": []
+      },
+      "chunkSize": 131072,
+      "chunkCount": 24
+    },
     {
       "version": "3.0.3",
       "channel": "stable",
