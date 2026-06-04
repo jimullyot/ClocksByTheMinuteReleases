@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-04T02:33:04Z",
+  "generatedAt": "2026-06-04T03:01:33Z",
   "release": {
-    "version": "3.0.7",
+    "version": "3.0.8",
     "channel": "stable",
-    "publishedAt": "2026-06-04T02:33:04Z",
-    "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v3.0.7/ScriptureTime-3.0.7.bin",
-    "sha256": "6b257e6b2b4c017e5c6e29afe9ee808366325bfd5e88db8770b3f3ce6b1d69b1",
-    "size": 3035104,
+    "publishedAt": "2026-06-04T03:01:33Z",
+    "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v3.0.8/ScriptureTime-3.0.8.bin",
+    "sha256": "d9a87a4fe0db6a52fc4ca40c4ebeecd36f809e75bee091549560a6927e7ddcc3",
+    "size": 3035072,
     "deprecated": false,
     "invalid": false,
     "replacementVersion": "",
     "reason": "",
     "changelog": {
       "improvements": [
-        "Improved handling of local Bible data versions to use local when it's not a versioned data release."
+        "Remove hard coded default Wifi network and password."
       ],
       "fixes": [],
       "notes": []
