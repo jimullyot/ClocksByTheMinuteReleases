@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-04T02:27:46Z",
+  "generatedAt": "2026-06-04T02:33:04Z",
   "release": {
-    "version": "3.0.6",
+    "version": "3.0.7",
     "channel": "stable",
-    "publishedAt": "2026-05-31T20:40:24Z",
-    "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v3.0.6/ScriptureTime-3.0.6.bin",
-    "sha256": "be02d04c63b3e0e91ac59b4e7e8f7f1215736536ad689326309b2ca9dee3c7ac",
-    "size": 3035024,
+    "publishedAt": "2026-06-04T02:33:04Z",
+    "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v3.0.7/ScriptureTime-3.0.7.bin",
+    "sha256": "6b257e6b2b4c017e5c6e29afe9ee808366325bfd5e88db8770b3f3ce6b1d69b1",
+    "size": 3035104,
     "deprecated": false,
     "invalid": false,
     "replacementVersion": "",
     "reason": "",
     "changelog": {
       "improvements": [
-        "General stability improvements at startup."
+        "Improved handling of local Bible data versions to use local when it's not a versioned data release."
       ],
       "fixes": [],
       "notes": []
