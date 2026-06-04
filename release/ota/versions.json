@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-04T02:27:33Z",
+  "generatedAt": "2026-06-04T02:27:46Z",
   "releases": [
     {
       "version": "3.0.6",
@@ -16,27 +16,6 @@
       "changelog": {
         "improvements": [
           "General stability improvements at startup."
-        ],
-        "fixes": [],
-        "notes": []
-      },
-      "chunkSize": 131072,
-      "chunkCount": 24
-    },
-    {
-      "version": "3.0.5",
-      "channel": "stable",
-      "publishedAt": "2026-05-31T11:35:37Z",
-      "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v3.0.5/ScriptureTime-3.0.5.bin",
-      "sha256": "b5e30742a4403f8466b5c5381bdebf2f3b39cd42dcf16098fd648e2de257eb6c",
-      "size": 3033104,
-      "deprecated": false,
-      "invalid": false,
-      "replacementVersion": "",
-      "reason": "",
-      "changelog": {
-        "improvements": [
-          "Stability fixes for wifi unavailable scenarios and flicker fix when running setup in light mode."
         ],
         "fixes": [],
         "notes": []
