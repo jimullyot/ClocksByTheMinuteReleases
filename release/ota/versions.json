@@ -1,7 +1,33 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-02T13:47:43Z",
+  "generatedAt": "2026-08-02T19:05:54Z",
   "releases": [
+    {
+      "version": "3.2.1",
+      "channel": "stable",
+      "publishedAt": "2026-08-02T19:05:54Z",
+      "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v3.2.1/ScriptureTime-3.2.1.bin",
+      "sha256": "d8a3743bc1e5b2845d4c47f06a48dc6f3fedc28fb15728e187bbfe9bf8147def",
+      "size": 3107328,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
+      "changelog": {
+        "improvements": [
+          "When a clock is set up for you before it ships, the registration screen now greets you by name and fills in your details, so you confirm them rather than typing them."
+        ],
+        "fixes": [
+          "The registration screen's guidance no longer covers the email box or the Register and Skip buttons it is asking you to tap.",
+          "Guidance now steps out of the way while the on-screen keyboard is up, and comes back when you close it.",
+          "Wi-Fi now works on both panel revisions without a hand-set option: the clock works out which one it has on its own.",
+          "A clock that could not reach Wi-Fi on its first try no longer has to be unplugged and plugged back in to recover."
+        ],
+        "notes": []
+      },
+      "chunkSize": 131072,
+      "chunkCount": 24
+    },
     {
       "version": "3.2.0",
       "channel": "stable",
