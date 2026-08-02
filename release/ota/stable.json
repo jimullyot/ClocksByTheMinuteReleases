@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-02T10:34:22Z",
+  "generatedAt": "2026-08-02T13:47:43Z",
   "release": {
-    "version": "3.1.0",
+    "version": "3.2.0",
     "channel": "stable",
-    "publishedAt": "2026-08-02T10:34:22Z",
-    "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v3.1.0/ScriptureTime-3.1.0.bin",
-    "sha256": "cd4470733fa0f3438702f150be824e0b00b39af7cc2567c5735376f35a787505",
-    "size": 3095440,
+    "publishedAt": "2026-08-02T13:47:43Z",
+    "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v3.2.0/ScriptureTime-3.2.0.bin",
+    "sha256": "81f4e734175b6b96d2fa7f29435268fd50a81c8016ad802c3645c63dd8adc372",
+    "size": 3106448,
     "deprecated": false,
     "invalid": false,
     "replacementVersion": "",
     "reason": "",
     "changelog": {
       "improvements": [
-        "Firmware updates for updated internal clock hardware updates."
+        "Improved registration handling."
       ],
       "fixes": [],
       "notes": []
