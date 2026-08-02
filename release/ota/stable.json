@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-02T19:37:19Z",
+  "generatedAt": "2026-08-02T19:46:09Z",
   "release": {
-    "version": "3.2.2",
+    "version": "3.2.3",
     "channel": "stable",
-    "publishedAt": "2026-08-02T19:35:23Z",
-    "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v3.2.2/ScriptureTime-3.2.2.bin",
-    "sha256": "b88d45cf89f30130c720115ec280110dfc48b1501cf27fff0c0a847f4da4363d",
-    "size": 3107344,
+    "publishedAt": "2026-08-02T19:46:09Z",
+    "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v3.2.3/ScriptureTime-3.2.3.bin",
+    "sha256": "bb3c3dada3e716788f5764b54d5c05385b904c1def3fcc6d8700a41e8a90e446",
+    "size": 3107360,
     "deprecated": false,
     "invalid": false,
     "replacementVersion": "",
     "reason": "",
     "changelog": {
-      "improvements": [],
-      "fixes": [
-        "Fixes a problem during the setup tour with the background image dpeople pick for the main clock screen being displayed too high."
+      "improvements": [
+        "Made registration text on about screen slightly smaller."
       ],
+      "fixes": [],
       "notes": []
     },
     "chunkSize": 131072,

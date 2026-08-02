@@ -1,7 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-02T19:37:19Z",
+  "generatedAt": "2026-08-02T19:46:09Z",
   "releases": [
+    {
+      "version": "3.2.3",
+      "channel": "stable",
+      "publishedAt": "2026-08-02T19:46:09Z",
+      "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v3.2.3/ScriptureTime-3.2.3.bin",
+      "sha256": "bb3c3dada3e716788f5764b54d5c05385b904c1def3fcc6d8700a41e8a90e446",
+      "size": 3107360,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
+      "changelog": {
+        "improvements": [
+          "Made registration text on about screen slightly smaller."
+        ],
+        "fixes": [],
+        "notes": []
+      },
+      "chunkSize": 131072,
+      "chunkCount": 24
+    },
     {
       "version": "3.2.2",
       "channel": "stable",
