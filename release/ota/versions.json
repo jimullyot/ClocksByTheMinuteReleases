@@ -1,7 +1,32 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-02T19:46:09Z",
+  "generatedAt": "2026-08-08T01:59:06Z",
   "releases": [
+    {
+      "version": "3.2.4",
+      "channel": "stable",
+      "publishedAt": "2026-08-08T01:59:06Z",
+      "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v3.2.4/ScriptureTime-3.2.4.bin",
+      "sha256": "985f3f74466dfeff500758f2950188f915606fc1cce7e87e3bc84915e89998d8",
+      "size": 3106368,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
+      "changelog": {
+        "improvements": [
+          "Firmware updates now download in 256 KB chunks instead of 128 KB, halving the number of connections an install has to make.",
+          "The update log now reports where an install's time actually went, split into connecting, transfer, and cooldowns."
+        ],
+        "fixes": [
+          "The screen is dimmed again during update downloads, which stops the heavy flickering seen in 3.2.3.",
+          "Corrected the download speed reported at the end of an update, which could show a negative figure."
+        ],
+        "notes": []
+      },
+      "chunkSize": 262144,
+      "chunkCount": 12
+    },
     {
       "version": "3.2.3",
       "channel": "stable",
