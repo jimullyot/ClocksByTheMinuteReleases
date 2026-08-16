@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-16T12:52:12Z",
+  "packs": {
+    "trivia/marine": {
+      "id": "trivia/marine",
+      "typeId": "trivia",
+      "packId": "marine",
+      "productId": "marine",
+      "displayName": "Marine Life Trivia",
+      "shortName": "Marine",
+      "otaAvailable": true,
+      "releases": [
+        {
+          "version": "1.2.0",
+          "channel": "stable",
+          "publishedAt": "2026-08-16T12:52:12Z",
+          "bundleUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/content-trivia-marine-v1.2.0/content-trivia-marine-1.2.0.zip",
+          "bundleFilename": "content-trivia-marine-1.2.0.zip",
+          "sha256": "5454dfa23c8e83134b95ca34cb3cbb47b6bb9597c0604e2e5f31d114bd042037",
+          "size": 335248,
+          "uncompressedSize": 576044,
+          "deprecated": false,
+          "invalid": false,
+          "replacementVersion": "",
+          "reason": "",
+          "changelog": {
+            "improvements": [
+              "Marine-styled Answer toggle so it matches the Question toggle instead of falling back to the generic lightbulb."
+            ],
+            "fixes": [],
+            "notes": []
+          },
+          "chunkSize": 131072,
+          "chunkCount": 3,
+          "chunkUrlExample": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/content-trivia-marine-v1.2.0/content-trivia-marine-v1.2.0_chunk_01_of_03.bin",
+          "typeId": "trivia",
+          "packId": "marine"
+        }
+      ]
+    }
+  },
+  "productId": "marine"
+}
