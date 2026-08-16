@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "component": "assets",
+  "generatedAt": "2026-08-16T12:51:01Z",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "channel": "stable",
+      "publishedAt": "2026-08-16T12:51:01Z",
+      "bundleUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/assets-scriptureTime-v1.0.0/assets-scriptureTime-1.0.0.zip",
+      "bundleFilename": "assets-scriptureTime-1.0.0.zip",
+      "sha256": "0b5eae34c12b028e1f0d660f64be25b49b512a224d51262df6945a06d8a619fe",
+      "size": 1655284,
+      "uncompressedSize": 1649546,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
+      "changelog": {
+        "improvements": [
+          "Scripture Time art (holidays, backgrounds, settings tiles) now ships in its own product bundle."
+        ],
+        "fixes": [],
+        "notes": [
+          "First release under the product-scoped OTA layout (release/ota/products/)."
+        ]
+      },
+      "chunkSize": 131072,
+      "chunkCount": 13,
+      "chunkUrlExample": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/assets-scriptureTime-v1.0.0/assets-scriptureTime-v1.0.0_chunk_01_of_13.bin",
+      "scope": "scriptureTime"
+    }
+  ],
+  "scope": "scriptureTime"
+}
