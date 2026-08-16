@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "component": "assets",
+  "generatedAt": "2026-08-16T12:40:55Z",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "channel": "stable",
+      "publishedAt": "2026-08-16T12:40:55Z",
+      "bundleUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/assets-common-v1.0.0/assets-common-1.0.0.zip",
+      "bundleFilename": "assets-common-1.0.0.zip",
+      "sha256": "db098e5ac1bd428c7ab90db532707ab4751cf2ba6373c619b2896b35e149f619",
+      "size": 167826,
+      "uncompressedSize": 167330,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
+      "changelog": {
+        "improvements": [
+          "Shared update-screen icons split into their own 'common' bundle so every product installs them once."
+        ],
+        "fixes": [],
+        "notes": [
+          "First release under the product-scoped OTA layout (release/ota/products/)."
+        ]
+      },
+      "chunkSize": 131072,
+      "chunkCount": 2,
+      "chunkUrlExample": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/assets-common-v1.0.0/assets-common-v1.0.0_chunk_01_of_02.bin",
+      "scope": "common"
+    }
+  ],
+  "scope": "common"
+}
