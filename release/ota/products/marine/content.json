@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T12:52:12Z",
+  "generatedAt": "2026-08-16T12:52:26Z",
   "packs": {
     "trivia/marine": {
       "id": "trivia/marine",
@@ -35,6 +35,43 @@
           "chunkCount": 3,
           "chunkUrlExample": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/content-trivia-marine-v1.2.0/content-trivia-marine-v1.2.0_chunk_01_of_03.bin",
           "typeId": "trivia",
+          "packId": "marine"
+        }
+      ]
+    },
+    "facts/marine": {
+      "id": "facts/marine",
+      "typeId": "facts",
+      "packId": "marine",
+      "productId": "marine",
+      "displayName": "Marine Life",
+      "shortName": "Marine",
+      "otaAvailable": true,
+      "releases": [
+        {
+          "version": "1.1.0",
+          "channel": "stable",
+          "publishedAt": "2026-08-16T12:52:26Z",
+          "bundleUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/content-facts-marine-v1.1.0/content-facts-marine-1.1.0.zip",
+          "bundleFilename": "content-facts-marine-1.1.0.zip",
+          "sha256": "ed1ea8dc3736c90ffc797e0cee2ec048d4c6d4518273c949d861f9c777082739",
+          "size": 116375,
+          "uncompressedSize": 163077,
+          "deprecated": false,
+          "invalid": false,
+          "replacementVersion": "",
+          "reason": "",
+          "changelog": {
+            "improvements": [],
+            "fixes": [],
+            "notes": [
+              "First published release of the Marine Life facts pack."
+            ]
+          },
+          "chunkSize": 131072,
+          "chunkCount": 1,
+          "chunkUrlExample": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/content-facts-marine-v1.1.0/content-facts-marine-v1.1.0_chunk_01_of_01.bin",
+          "typeId": "facts",
           "packId": "marine"
         }
       ]
