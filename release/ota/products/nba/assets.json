@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "component": "assets",
+  "generatedAt": "2026-08-16T12:51:25Z",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "channel": "stable",
+      "publishedAt": "2026-08-16T12:51:25Z",
+      "bundleUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/assets-nba-v1.0.0/assets-nba-1.0.0.zip",
+      "bundleFilename": "assets-nba-1.0.0.zip",
+      "sha256": "66477b4c0c83cbf43d3a2600a0d04de8fdcfec8ffb9abc1a104ee8774f7a43df",
+      "size": 298702,
+      "uncompressedSize": 296520,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
+      "changelog": {
+        "improvements": [
+          "NBA art bundle for Trivia Time."
+        ],
+        "fixes": [
+          "NBA clocks were missing their settings menu tiles entirely; they now ship with the shared set."
+        ],
+        "notes": [
+          "First release under the product-scoped OTA layout (release/ota/products/)."
+        ]
+      },
+      "chunkSize": 131072,
+      "chunkCount": 3,
+      "chunkUrlExample": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/assets-nba-v1.0.0/assets-nba-v1.0.0_chunk_01_of_03.bin",
+      "scope": "nba"
+    }
+  ],
+  "scope": "nba"
+}
