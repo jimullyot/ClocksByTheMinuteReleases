@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-16T12:52:39Z",
+  "packs": {
+    "trivia/nba": {
+      "id": "trivia/nba",
+      "typeId": "trivia",
+      "packId": "nba",
+      "productId": "nba",
+      "displayName": "NBA Trivia",
+      "shortName": "NBA",
+      "otaAvailable": true,
+      "releases": [
+        {
+          "version": "1.0.0",
+          "channel": "stable",
+          "publishedAt": "2026-08-16T12:52:39Z",
+          "bundleUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/content-trivia-nba-v1.0.0/content-trivia-nba-1.0.0.zip",
+          "bundleFilename": "content-trivia-nba-1.0.0.zip",
+          "sha256": "a319d10f4e33c9c72cd15b86b3f0c9b003d0b91123724c40c5d3d6fe5bf0e640",
+          "size": 218639,
+          "uncompressedSize": 283848,
+          "deprecated": false,
+          "invalid": false,
+          "replacementVersion": "",
+          "reason": "",
+          "changelog": {
+            "improvements": [],
+            "fixes": [],
+            "notes": [
+              "First published release of the NBA trivia pack."
+            ]
+          },
+          "chunkSize": 131072,
+          "chunkCount": 2,
+          "chunkUrlExample": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/content-trivia-nba-v1.0.0/content-trivia-nba-v1.0.0_chunk_01_of_02.bin",
+          "typeId": "trivia",
+          "packId": "nba"
+        }
+      ]
+    }
+  },
+  "productId": "nba"
+}
