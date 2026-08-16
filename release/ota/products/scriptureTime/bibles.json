@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-16T12:53:47Z",
+  "translations": {
+    "web": {
+      "id": "web",
+      "displayName": "World English Bible (Protestant Edition)",
+      "shortName": "WEB",
+      "license": "public-domain",
+      "otaAvailable": true,
+      "releases": [
+        {
+          "version": "1.0.0",
+          "channel": "stable",
+          "publishedAt": "2026-08-16T12:53:47Z",
+          "bundleUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/bible-web-v1.0.0/bible-web-1.0.0.zip",
+          "bundleFilename": "bible-web-1.0.0.zip",
+          "sha256": "54a2ffb03e38672555ca27347d6b5b535b2a60e7bdc3b0800b8bee84fa3b883c",
+          "size": 1458939,
+          "uncompressedSize": 5975247,
+          "deprecated": false,
+          "invalid": false,
+          "replacementVersion": "",
+          "reason": "",
+          "changelog": {
+            "improvements": [
+              "WEB (World English Bible, Protestant Edition): all 66 books plus on-the-hour emphasis verses."
+            ],
+            "fixes": [],
+            "notes": [
+              "WEB is in the public domain, so this bundle is freely redistributable.",
+              "Republished under the product-scoped OTA layout (release/ota/products/scriptureTime/bibles.json)."
+            ]
+          },
+          "chunkSize": 131072,
+          "chunkCount": 12,
+          "chunkUrlExample": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/bible-web-v1.0.0/bible-web-v1.0.0_chunk_01_of_12.bin",
+          "translationId": "web"
+        }
+      ]
+    }
+  }
+}
