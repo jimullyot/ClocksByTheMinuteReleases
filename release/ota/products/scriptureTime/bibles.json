@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T12:53:47Z",
+  "generatedAt": "2026-08-16T12:55:26Z",
   "translations": {
     "web": {
       "id": "web",
@@ -12,7 +12,7 @@
         {
           "version": "1.0.0",
           "channel": "stable",
-          "publishedAt": "2026-08-16T12:53:47Z",
+          "publishedAt": "2026-08-16T12:55:26Z",
           "bundleUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/bible-web-v1.0.0/bible-web-1.0.0.zip",
           "bundleFilename": "bible-web-1.0.0.zip",
           "sha256": "54a2ffb03e38672555ca27347d6b5b535b2a60e7bdc3b0800b8bee84fa3b883c",
@@ -24,11 +24,13 @@
           "reason": "",
           "changelog": {
             "improvements": [
-              "WEB (World English Bible, Protestant Edition): all 66 books plus on-the-hour emphasis verses."
+              "Initial WEB (World English Bible, Protestant Edition) bundle.",
+              "All 66 books plus on-the-hour emphasis verses, packaged as compressed ZIPs ready for direct LittleFS install."
             ],
             "fixes": [],
             "notes": [
               "WEB is in the public domain, so this bundle is freely redistributable.",
+              "Installs to /bible-web/ on LittleFS via atomic staging + directory swap; if a previous WEB install is present it stays in place until the new bundle is fully downloaded and unpacked.",
               "Republished under the product-scoped OTA layout (release/ota/products/scriptureTime/bibles.json)."
             ]
           },
