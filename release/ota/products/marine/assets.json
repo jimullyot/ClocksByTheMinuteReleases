@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "component": "assets",
+  "generatedAt": "2026-08-16T12:51:16Z",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "channel": "stable",
+      "publishedAt": "2026-08-16T12:51:16Z",
+      "bundleUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/assets-marine-v1.0.0/assets-marine-1.0.0.zip",
+      "bundleFilename": "assets-marine-1.0.0.zip",
+      "sha256": "b5c93bb0c4235dfebda08c0ff9841bbb16599f15025f0aeeb74425eaa5b9239a",
+      "size": 470106,
+      "uncompressedSize": 466912,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
+      "changelog": {
+        "improvements": [
+          "Marine art bundle covering both Fact Time and Trivia Time screens.",
+          "Settings tiles now come from the shared set, so they match across products."
+        ],
+        "fixes": [],
+        "notes": [
+          "First release under the product-scoped OTA layout (release/ota/products/)."
+        ]
+      },
+      "chunkSize": 131072,
+      "chunkCount": 4,
+      "chunkUrlExample": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/assets-marine-v1.0.0/assets-marine-v1.0.0_chunk_01_of_04.bin",
+      "scope": "marine"
+    }
+  ],
+  "scope": "marine"
+}
