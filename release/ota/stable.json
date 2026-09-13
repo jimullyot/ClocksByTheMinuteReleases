@@ -1,29 +1,25 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T01:59:06Z",
+  "generatedAt": "2026-09-13T11:11:38Z",
   "release": {
-    "version": "3.2.4",
+    "version": "3.3.0",
     "channel": "stable",
-    "publishedAt": "2026-08-08T01:59:06Z",
-    "firmwareUrl": "https://github.com/jimullyot/ScriptureTimeReleases/releases/download/v3.2.4/ScriptureTime-3.2.4.bin",
-    "sha256": "985f3f74466dfeff500758f2950188f915606fc1cce7e87e3bc84915e89998d8",
-    "size": 3106368,
+    "publishedAt": "2026-09-13T11:11:38Z",
+    "firmwareUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/v3.3.0/ClocksByTheMinute-3.3.0.bin",
+    "sha256": "e710addb3dab9f320b5f81cc9a1cc0729a818a3bfc839cccc31e0249742189f6",
+    "size": 3183824,
     "deprecated": false,
     "invalid": false,
     "replacementVersion": "",
     "reason": "",
     "changelog": {
       "improvements": [
-        "Firmware updates now download in 256 KB chunks instead of 128 KB, halving the number of connections an install has to make.",
-        "The update log now reports where an install's time actually went, split into connecting, transfer, and cooldowns."
+        "Improvements in clock hardware support."
       ],
-      "fixes": [
-        "The screen is dimmed again during update downloads, which stops the heavy flickering seen in 3.2.3.",
-        "Corrected the download speed reported at the end of an update, which could show a negative figure."
-      ],
+      "fixes": [],
       "notes": []
     },
     "chunkSize": 262144,
-    "chunkCount": 12
+    "chunkCount": 13
   }
 }

@@ -1,7 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T01:59:06Z",
+  "generatedAt": "2026-09-13T11:11:38Z",
   "releases": [
+    {
+      "version": "3.3.0",
+      "channel": "stable",
+      "publishedAt": "2026-09-13T11:11:38Z",
+      "firmwareUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/v3.3.0/ClocksByTheMinute-3.3.0.bin",
+      "sha256": "e710addb3dab9f320b5f81cc9a1cc0729a818a3bfc839cccc31e0249742189f6",
+      "size": 3183824,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
+      "changelog": {
+        "improvements": [
+          "Improvements in clock hardware support."
+        ],
+        "fixes": [],
+        "notes": []
+      },
+      "chunkSize": 262144,
+      "chunkCount": 13
+    },
     {
       "version": "3.2.4",
       "channel": "stable",
