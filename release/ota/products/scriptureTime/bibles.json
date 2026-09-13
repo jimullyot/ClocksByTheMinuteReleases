@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T12:55:26Z",
+  "generatedAt": "2026-09-13T18:45:21Z",
   "translations": {
     "web": {
       "id": "web",
@@ -9,6 +9,34 @@
       "license": "public-domain",
       "otaAvailable": true,
       "releases": [
+        {
+          "version": "1.0.1",
+          "channel": "stable",
+          "publishedAt": "2026-09-13T18:45:21Z",
+          "bundleUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/bible-web-v1.0.1/bible-web-1.0.1.zip",
+          "bundleFilename": "bible-web-1.0.1.zip",
+          "sha256": "a592a48c607fc3ae92407097745551cf120fc8d689d8c0c2c6ae3ae8be90d4ff",
+          "size": 1457788,
+          "uncompressedSize": 5974529,
+          "deprecated": false,
+          "invalid": false,
+          "replacementVersion": "",
+          "reason": "",
+          "changelog": {
+            "improvements": [],
+            "fixes": [
+              "Verse text now uses characters the clock can draw. Dashes inside a verse previously showed as an empty box."
+            ],
+            "notes": [
+              "Same WEB text as 1.0.0. Only the punctuation encoding changed, so no wording was altered.",
+              "Installs to /bible-web/ the same way as before: staged first, swapped in only once the whole bundle has downloaded."
+            ]
+          },
+          "chunkSize": 131072,
+          "chunkCount": 12,
+          "chunkUrlExample": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/bible-web-v1.0.1/bible-web-v1.0.1_chunk_01_of_12.bin",
+          "translationId": "web"
+        },
         {
           "version": "1.0.0",
           "channel": "stable",
