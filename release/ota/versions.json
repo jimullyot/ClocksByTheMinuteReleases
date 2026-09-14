@@ -1,7 +1,33 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T01:14:45Z",
+  "generatedAt": "2026-09-14T01:23:57Z",
   "releases": [
+    {
+      "version": "3.3.2",
+      "channel": "stable",
+      "publishedAt": "2026-09-14T01:23:57Z",
+      "firmwareUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/v3.3.2/ClocksByTheMinute-3.3.2.bin",
+      "sha256": "dd37fd521d93ca3b515cfcc700b4e92ee7ab938494083e36e7aa0479ab71d771",
+      "size": 3185504,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
+      "changelog": {
+        "improvements": [
+          "Setup improvements: the confirmation screen now lines every value up in a single column instead of drifting out of step, and reads back the Bible translation and artwork versions next to the firmware version.",
+          "That screen can now tell an up-to-date clock from a stale one. Content, artwork and firmware each update on their own, so a name on its own could not say which version was actually installed."
+        ],
+        "fixes": [
+          "Checking for updates no longer waits forever. If it cannot reach the update service it now stops after 90 seconds and says so, rather than leaving the button on 'Checking...' with nothing to do but restart."
+        ],
+        "notes": [
+          "No settings, content or artwork change in this release, so nothing is re-downloaded after installing it."
+        ]
+      },
+      "chunkSize": 262144,
+      "chunkCount": 13
+    },
     {
       "version": "3.3.1",
       "channel": "stable",
