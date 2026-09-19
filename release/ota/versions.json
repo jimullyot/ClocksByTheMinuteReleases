@@ -1,7 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T01:26:55Z",
+  "generatedAt": "2026-09-19T02:13:41Z",
   "releases": [
+    {
+      "version": "3.3.3",
+      "channel": "stable",
+      "publishedAt": "2026-09-19T02:13:41Z",
+      "firmwareUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/v3.3.3/ClocksByTheMinute-3.3.3.bin",
+      "sha256": "241f2ddffc15ed4fde21f85dfc54d79c2e4d0295b1e4651a9847d5155589a633",
+      "size": 3187440,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
+      "changelog": {
+        "improvements": [
+          "Improvements when connecting to wifi after startup and getting the main screen to update properly."
+        ],
+        "fixes": [],
+        "notes": []
+      },
+      "chunkSize": 262144,
+      "chunkCount": 13
+    },
     {
       "version": "3.3.2",
       "channel": "stable",
