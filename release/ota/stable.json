@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T02:13:41Z",
+  "generatedAt": "2026-09-19T12:13:02Z",
   "release": {
-    "version": "3.3.3",
+    "version": "3.3.4",
     "channel": "stable",
-    "publishedAt": "2026-09-19T02:13:41Z",
-    "firmwareUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/v3.3.3/ClocksByTheMinute-3.3.3.bin",
-    "sha256": "241f2ddffc15ed4fde21f85dfc54d79c2e4d0295b1e4651a9847d5155589a633",
-    "size": 3187440,
+    "publishedAt": "2026-09-19T12:13:02Z",
+    "firmwareUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/v3.3.4/ClocksByTheMinute-3.3.4.bin",
+    "sha256": "6e258211fd670b04ae7605ed09bc7b8370d6a7152b269ca86224af3d6f782d5c",
+    "size": 3189872,
     "deprecated": false,
     "invalid": false,
     "replacementVersion": "",
     "reason": "",
     "changelog": {
       "improvements": [
-        "Improvements when connecting to wifi after startup and getting the main screen to update properly."
+        "More wifi stability improvements for v1.1 board."
       ],
       "fixes": [],
       "notes": []

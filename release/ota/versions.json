@@ -1,7 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T02:13:41Z",
+  "generatedAt": "2026-09-19T12:13:02Z",
   "releases": [
+    {
+      "version": "3.3.4",
+      "channel": "stable",
+      "publishedAt": "2026-09-19T12:13:02Z",
+      "firmwareUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/v3.3.4/ClocksByTheMinute-3.3.4.bin",
+      "sha256": "6e258211fd670b04ae7605ed09bc7b8370d6a7152b269ca86224af3d6f782d5c",
+      "size": 3189872,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
+      "changelog": {
+        "improvements": [
+          "More wifi stability improvements for v1.1 board."
+        ],
+        "fixes": [],
+        "notes": []
+      },
+      "chunkSize": 262144,
+      "chunkCount": 13
+    },
     {
       "version": "3.3.3",
       "channel": "stable",
