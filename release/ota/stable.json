@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T12:29:15Z",
+  "generatedAt": "2026-09-20T01:58:02Z",
   "release": {
-    "version": "3.3.5",
+    "version": "3.3.6",
     "channel": "stable",
-    "publishedAt": "2026-09-19T12:29:15Z",
-    "firmwareUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/v3.3.5/ClocksByTheMinute-3.3.5.bin",
-    "sha256": "0c39366f21448d94b9cf78e4c1f5708dd728e57aa11af8d7a0bb4d386478a585",
-    "size": 3189888,
+    "publishedAt": "2026-09-20T01:58:02Z",
+    "firmwareUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/v3.3.6/ClocksByTheMinute-3.3.6.bin",
+    "sha256": "6acf594b973f886cad5d17f6c81543ae20d7dfd3df2b57da19db4bb332822b84",
+    "size": 3202160,
     "deprecated": false,
     "invalid": false,
     "replacementVersion": "",
     "reason": "",
     "changelog": {
       "improvements": [
-        "Additional wifi stability improvements."
+        "Wifi improvement testing"
       ],
       "fixes": [],
       "notes": []
