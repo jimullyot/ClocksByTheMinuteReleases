@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T13:10:14Z",
+  "generatedAt": "2026-09-27T13:12:19Z",
   "releases": [
     {
       "version": "3.3.10",
@@ -9,10 +9,10 @@
       "firmwareUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/v3.3.10/ClocksByTheMinute-3.3.10.bin",
       "sha256": "e914b7380b0cd680002abe4558d11a66afb886224eed66ba3173e57ce22da423",
       "size": 3204720,
-      "deprecated": false,
-      "invalid": false,
-      "replacementVersion": "",
-      "reason": "",
+      "deprecated": true,
+      "invalid": true,
+      "replacementVersion": "3.3.9",
+      "reason": "OTA downloads stall on the 1-bit SDIO bus; back to 3.3.9",
       "changelog": {
         "improvements": [],
         "fixes": [

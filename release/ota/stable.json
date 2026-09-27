@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T13:10:14Z",
+  "generatedAt": "2026-09-27T13:12:19Z",
   "release": {
-    "version": "3.3.10",
+    "version": "3.3.9",
     "channel": "stable",
-    "publishedAt": "2026-09-27T13:10:14Z",
-    "firmwareUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/v3.3.10/ClocksByTheMinute-3.3.10.bin",
-    "sha256": "e914b7380b0cd680002abe4558d11a66afb886224eed66ba3173e57ce22da423",
+    "publishedAt": "2026-09-27T08:30:25Z",
+    "firmwareUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/v3.3.9/ClocksByTheMinute-3.3.9.bin",
+    "sha256": "577ff820922349551afd3ff896bedf881b53b38b9a33b5c1ba25043e40e0c343",
     "size": 3204720,
     "deprecated": false,
     "invalid": false,
@@ -15,8 +15,7 @@
     "changelog": {
       "improvements": [],
       "fixes": [
-        "Wi-Fi no longer stops working after the clock has been running a while",
-        "The clock sets its time from the internet more reliably"
+        "Some clocks were not being offered picture and Bible updates"
       ],
       "notes": []
     },
