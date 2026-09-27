@@ -1,25 +1,5 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T01:35:23Z",
-  "release": {
-    "version": "3.3.9",
-    "channel": "beta",
-    "publishedAt": "2026-09-27T01:35:23Z",
-    "firmwareUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/v3.3.9/ClocksByTheMinute-3.3.9.bin",
-    "sha256": "577ff820922349551afd3ff896bedf881b53b38b9a33b5c1ba25043e40e0c343",
-    "size": 3204720,
-    "deprecated": false,
-    "invalid": false,
-    "replacementVersion": "",
-    "reason": "",
-    "changelog": {
-      "improvements": [],
-      "fixes": [
-        "Some clocks were not being offered picture and Bible updates"
-      ],
-      "notes": []
-    },
-    "chunkSize": 262144,
-    "chunkCount": 13
-  }
+  "generatedAt": "2026-09-27T08:30:25Z",
+  "release": null
 }
