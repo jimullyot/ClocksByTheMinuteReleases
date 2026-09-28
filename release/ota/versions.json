@@ -1,22 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T13:12:19Z",
+  "generatedAt": "2026-09-28T10:14:47Z",
   "releases": [
     {
       "version": "3.3.10",
       "channel": "stable",
-      "publishedAt": "2026-09-27T13:10:14Z",
+      "publishedAt": "2026-09-28T10:14:47Z",
       "firmwareUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/v3.3.10/ClocksByTheMinute-3.3.10.bin",
-      "sha256": "e914b7380b0cd680002abe4558d11a66afb886224eed66ba3173e57ce22da423",
-      "size": 3204720,
-      "deprecated": true,
-      "invalid": true,
-      "replacementVersion": "3.3.9",
-      "reason": "OTA downloads stall on the 1-bit SDIO bus; back to 3.3.9",
+      "sha256": "539744299401a05f645caf48e23fbd319ce2979c49fd645dee04980fcf9d7e7c",
+      "size": 3204864,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
       "changelog": {
-        "improvements": [],
+        "improvements": [
+          "When no verse matches the current minute, the clock now shows which hour's verse it is displaying"
+        ],
         "fixes": [
-          "Wi-Fi no longer stops working after the clock has been running a while",
           "The clock sets its time from the internet more reliably"
         ],
         "notes": []

@@ -1,21 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T13:12:19Z",
+  "generatedAt": "2026-09-28T10:14:47Z",
   "release": {
-    "version": "3.3.9",
+    "version": "3.3.10",
     "channel": "stable",
-    "publishedAt": "2026-09-27T08:30:25Z",
-    "firmwareUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/v3.3.9/ClocksByTheMinute-3.3.9.bin",
-    "sha256": "577ff820922349551afd3ff896bedf881b53b38b9a33b5c1ba25043e40e0c343",
-    "size": 3204720,
+    "publishedAt": "2026-09-28T10:14:47Z",
+    "firmwareUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/v3.3.10/ClocksByTheMinute-3.3.10.bin",
+    "sha256": "539744299401a05f645caf48e23fbd319ce2979c49fd645dee04980fcf9d7e7c",
+    "size": 3204864,
     "deprecated": false,
     "invalid": false,
     "replacementVersion": "",
     "reason": "",
     "changelog": {
-      "improvements": [],
+      "improvements": [
+        "When no verse matches the current minute, the clock now shows which hour's verse it is displaying"
+      ],
       "fixes": [
-        "Some clocks were not being offered picture and Bible updates"
+        "The clock sets its time from the internet more reliably"
       ],
       "notes": []
     },
