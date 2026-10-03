@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T12:22:47Z",
+  "generatedAt": "2026-10-03T12:22:54Z",
   "releases": [
     {
       "version": "3.3.11",
@@ -64,27 +64,6 @@
         "improvements": [],
         "fixes": [
           "Some clocks were not being offered picture and Bible updates"
-        ],
-        "notes": []
-      },
-      "chunkSize": 262144,
-      "chunkCount": 13
-    },
-    {
-      "version": "3.3.8",
-      "channel": "stable",
-      "publishedAt": "2026-09-27T01:28:13Z",
-      "firmwareUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/v3.3.8/ClocksByTheMinute-3.3.8.bin",
-      "sha256": "db845b6bc5a8903cf2978fba0084c065eb16ad6c55e49583e507c84993898529",
-      "size": 3204496,
-      "deprecated": false,
-      "invalid": false,
-      "replacementVersion": "",
-      "reason": "",
-      "changelog": {
-        "improvements": [],
-        "fixes": [
-          "Software updates no longer stop partway through downloading"
         ],
         "notes": []
       },
