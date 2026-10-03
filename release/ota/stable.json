@@ -1,23 +1,24 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T01:39:22Z",
+  "generatedAt": "2026-10-03T10:34:33Z",
   "release": {
-    "version": "3.3.10",
+    "version": "3.3.11",
     "channel": "stable",
-    "publishedAt": "2026-09-28T10:14:47Z",
-    "firmwareUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/v3.3.10/ClocksByTheMinute-3.3.10.bin",
-    "sha256": "539744299401a05f645caf48e23fbd319ce2979c49fd645dee04980fcf9d7e7c",
-    "size": 3204864,
+    "publishedAt": "2026-10-03T10:34:33Z",
+    "firmwareUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/v3.3.11/ClocksByTheMinute-3.3.11.bin",
+    "sha256": "b8d65c38de265201802ccffc46cca3c50a84b725d40343025e8e5ba374392b61",
+    "size": 3205472,
     "deprecated": false,
     "invalid": false,
     "replacementVersion": "",
     "reason": "",
     "changelog": {
       "improvements": [
-        "When no verse matches the current minute, the clock now shows which hour's verse it is displaying"
+        "The Wi-Fi Connect button stays off until a network name is entered"
       ],
       "fixes": [
-        "The clock sets its time from the internet more reliably"
+        "The screen no longer flickers a few seconds after changing a setting",
+        "A setup self-check no longer reports missing artwork on clocks that have it"
       ],
       "notes": []
     },

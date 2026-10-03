@@ -1,7 +1,31 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T01:39:22Z",
+  "generatedAt": "2026-10-03T10:34:33Z",
   "releases": [
+    {
+      "version": "3.3.11",
+      "channel": "stable",
+      "publishedAt": "2026-10-03T10:34:33Z",
+      "firmwareUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/v3.3.11/ClocksByTheMinute-3.3.11.bin",
+      "sha256": "b8d65c38de265201802ccffc46cca3c50a84b725d40343025e8e5ba374392b61",
+      "size": 3205472,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
+      "changelog": {
+        "improvements": [
+          "The Wi-Fi Connect button stays off until a network name is entered"
+        ],
+        "fixes": [
+          "The screen no longer flickers a few seconds after changing a setting",
+          "A setup self-check no longer reports missing artwork on clocks that have it"
+        ],
+        "notes": []
+      },
+      "chunkSize": 262144,
+      "chunkCount": 13
+    },
     {
       "version": "3.3.10",
       "channel": "stable",
