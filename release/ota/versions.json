@@ -1,7 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T09:06:11Z",
+  "generatedAt": "2026-10-10T09:29:32Z",
   "releases": [
+    {
+      "version": "3.3.13",
+      "channel": "stable",
+      "publishedAt": "2026-10-10T09:29:32Z",
+      "firmwareUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/v3.3.13/ClocksByTheMinute-3.3.13.bin",
+      "sha256": "ebf33488461ee60c76131e4d1a56e9205fa4ceccc0e47c801edac1f6dd550126",
+      "size": 3269952,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
+      "changelog": {
+        "improvements": [
+          "BUpdated Update Now functionality when a new firmware release is available."
+        ],
+        "fixes": [],
+        "notes": []
+      },
+      "chunkSize": 262144,
+      "chunkCount": 13
+    },
     {
       "version": "3.3.12",
       "channel": "stable",
