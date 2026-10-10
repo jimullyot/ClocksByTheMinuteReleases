@@ -1,8 +1,33 @@
 {
   "schemaVersion": 1,
   "component": "assets",
-  "generatedAt": "2026-10-10T12:05:12Z",
+  "generatedAt": "2026-10-10T12:49:47Z",
   "releases": [
+    {
+      "version": "1.1.1",
+      "channel": "stable",
+      "publishedAt": "2026-10-10T12:49:47Z",
+      "bundleUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/assets-marine-v1.1.1/assets-marine-1.1.1.zip",
+      "bundleFilename": "assets-marine-1.1.1.zip",
+      "sha256": "2228e0637f1bb2a2930d75e699200a81126f46aa7f4f0844d223d9f8afff4145",
+      "size": 1402759,
+      "uncompressedSize": 1398441,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
+      "changelog": {
+        "improvements": [],
+        "fixes": [
+          "The anchor on the Settings menu's Holidays tile is now brass, so it no longer disappears in dark mode."
+        ],
+        "notes": []
+      },
+      "chunkSize": 131072,
+      "chunkCount": 11,
+      "chunkUrlExample": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/assets-marine-v1.1.1/assets-marine-v1.1.1_chunk_01_of_11.bin",
+      "scope": "marine"
+    },
     {
       "version": "1.1.0",
       "channel": "stable",
