@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T09:29:32Z",
+  "generatedAt": "2026-10-10T09:53:43Z",
   "release": {
-    "version": "3.3.13",
+    "version": "3.3.14",
     "channel": "stable",
-    "publishedAt": "2026-10-10T09:29:32Z",
-    "firmwareUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/v3.3.13/ClocksByTheMinute-3.3.13.bin",
-    "sha256": "ebf33488461ee60c76131e4d1a56e9205fa4ceccc0e47c801edac1f6dd550126",
+    "publishedAt": "2026-10-10T09:53:43Z",
+    "firmwareUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/v3.3.14/ClocksByTheMinute-3.3.14.bin",
+    "sha256": "6403cc26bcab4398a76bc661b5962a9ef8c413c8d5402005cc4a8d090d6c3d51",
     "size": 3269952,
     "deprecated": false,
     "invalid": false,
@@ -14,7 +14,7 @@
     "reason": "",
     "changelog": {
       "improvements": [
-        "BUpdated Update Now functionality when a new firmware release is available."
+        "Date & Time and Clock swapped places on the Settings screen."
       ],
       "fixes": [],
       "notes": []
