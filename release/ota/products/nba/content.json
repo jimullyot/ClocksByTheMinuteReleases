@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T12:22:20Z",
+  "generatedAt": "2026-10-10T12:25:32Z",
   "packs": {
     "trivia/nba": {
       "id": "trivia/nba",
@@ -11,6 +11,32 @@
       "shortName": "NBA",
       "otaAvailable": true,
       "releases": [
+        {
+          "version": "1.0.2",
+          "channel": "stable",
+          "publishedAt": "2026-10-10T12:25:32Z",
+          "bundleUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/content-trivia-nba-v1.0.2/content-trivia-nba-1.0.2.zip",
+          "bundleFilename": "content-trivia-nba-1.0.2.zip",
+          "sha256": "c3c2a7664016fffa4b6f0d168619c8217f31ec473bcaf7b86e481ff91abd01ae",
+          "size": 256564,
+          "uncompressedSize": 321435,
+          "deprecated": false,
+          "invalid": false,
+          "replacementVersion": "",
+          "reason": "",
+          "changelog": {
+            "improvements": [
+              "A basketball clock on the Settings menu's Clock tile, in place of the porthole."
+            ],
+            "fixes": [],
+            "notes": []
+          },
+          "chunkSize": 131072,
+          "chunkCount": 2,
+          "chunkUrlExample": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/content-trivia-nba-v1.0.2/content-trivia-nba-v1.0.2_chunk_01_of_02.bin",
+          "typeId": "trivia",
+          "packId": "nba"
+        },
         {
           "version": "1.0.1",
           "channel": "stable",
