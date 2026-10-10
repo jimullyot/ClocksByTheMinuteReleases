@@ -1,8 +1,35 @@
 {
   "schemaVersion": 1,
   "component": "assets",
-  "generatedAt": "2026-08-16T12:51:16Z",
+  "generatedAt": "2026-10-10T12:05:12Z",
   "releases": [
+    {
+      "version": "1.1.0",
+      "channel": "stable",
+      "publishedAt": "2026-10-10T12:05:12Z",
+      "bundleUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/assets-marine-v1.1.0/assets-marine-1.1.0.zip",
+      "bundleFilename": "assets-marine-1.1.0.zip",
+      "sha256": "197576ac9c068b73d86ef8aa8bf9dfb47d3296e016d3eb723e06a99322fe0b92",
+      "size": 1402399,
+      "uncompressedSize": 1398081,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
+      "changelog": {
+        "improvements": [
+          "Aquarium and Fly Fishing backgrounds for marine facts and trivia."
+        ],
+        "fixes": [
+          "Marine clocks now receive the background pictures; they were left out of the marine assets."
+        ],
+        "notes": []
+      },
+      "chunkSize": 131072,
+      "chunkCount": 11,
+      "chunkUrlExample": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/assets-marine-v1.1.0/assets-marine-v1.1.0_chunk_01_of_11.bin",
+      "scope": "marine"
+    },
     {
       "version": "1.0.0",
       "channel": "stable",
