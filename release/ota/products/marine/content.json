@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T11:52:38Z",
+  "generatedAt": "2026-10-10T12:22:01Z",
   "packs": {
     "trivia/marine": {
       "id": "trivia/marine",
@@ -11,6 +11,32 @@
       "shortName": "Marine",
       "otaAvailable": true,
       "releases": [
+        {
+          "version": "1.4.1",
+          "channel": "stable",
+          "publishedAt": "2026-10-10T12:22:01Z",
+          "bundleUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/content-trivia-marine-v1.4.1/content-trivia-marine-1.4.1.zip",
+          "bundleFilename": "content-trivia-marine-1.4.1.zip",
+          "sha256": "742a5c4fa84536bdaf8c1949e36bd6cf4e363d83e2672167e6b106d8d6a89ff1",
+          "size": 454529,
+          "uncompressedSize": 972618,
+          "deprecated": false,
+          "invalid": false,
+          "replacementVersion": "",
+          "reason": "",
+          "changelog": {
+            "improvements": [
+              "The Settings screens' back-to-clock button is now a nautical ship's clock (needs firmware 3.3.15)."
+            ],
+            "fixes": [],
+            "notes": []
+          },
+          "chunkSize": 131072,
+          "chunkCount": 4,
+          "chunkUrlExample": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/content-trivia-marine-v1.4.1/content-trivia-marine-v1.4.1_chunk_01_of_04.bin",
+          "typeId": "trivia",
+          "packId": "marine"
+        },
         {
           "version": "1.4.0",
           "channel": "stable",
