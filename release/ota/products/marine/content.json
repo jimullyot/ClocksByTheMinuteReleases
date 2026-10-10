@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T12:44:17Z",
+  "generatedAt": "2026-10-10T12:49:26Z",
   "packs": {
     "trivia/marine": {
       "id": "trivia/marine",
@@ -11,6 +11,32 @@
       "shortName": "Marine",
       "otaAvailable": true,
       "releases": [
+        {
+          "version": "1.4.3",
+          "channel": "stable",
+          "publishedAt": "2026-10-10T12:49:26Z",
+          "bundleUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/content-trivia-marine-v1.4.3/content-trivia-marine-1.4.3.zip",
+          "bundleFilename": "content-trivia-marine-1.4.3.zip",
+          "sha256": "6ab864104515a5387c569d3a852e2d0f08c52e83aeb7eb7eaf97403284da63ad",
+          "size": 452719,
+          "uncompressedSize": 970808,
+          "deprecated": false,
+          "invalid": false,
+          "replacementVersion": "",
+          "reason": "",
+          "changelog": {
+            "improvements": [],
+            "fixes": [
+              "The anchor beside the clock on the back-to-the-clock button is now brass, so it no longer disappears in dark mode."
+            ],
+            "notes": []
+          },
+          "chunkSize": 131072,
+          "chunkCount": 4,
+          "chunkUrlExample": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/content-trivia-marine-v1.4.3/content-trivia-marine-v1.4.3_chunk_01_of_04.bin",
+          "typeId": "trivia",
+          "packId": "marine"
+        },
         {
           "version": "1.4.2",
           "channel": "stable",
