@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T12:52:39Z",
+  "generatedAt": "2026-10-10T12:22:20Z",
   "packs": {
     "trivia/nba": {
       "id": "trivia/nba",
@@ -11,6 +11,32 @@
       "shortName": "NBA",
       "otaAvailable": true,
       "releases": [
+        {
+          "version": "1.0.1",
+          "channel": "stable",
+          "publishedAt": "2026-10-10T12:22:20Z",
+          "bundleUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/content-trivia-nba-v1.0.1/content-trivia-nba-1.0.1.zip",
+          "bundleFilename": "content-trivia-nba-1.0.1.zip",
+          "sha256": "6e6517f311d550b7977bb7bcb945183463f6a5746eede591f9f62e46e8c4f909",
+          "size": 240917,
+          "uncompressedSize": 305966,
+          "deprecated": false,
+          "invalid": false,
+          "replacementVersion": "",
+          "reason": "",
+          "changelog": {
+            "improvements": [
+              "The Settings screens' back-to-clock button is now a basketball clock (needs firmware 3.3.15)."
+            ],
+            "fixes": [],
+            "notes": []
+          },
+          "chunkSize": 131072,
+          "chunkCount": 2,
+          "chunkUrlExample": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/content-trivia-nba-v1.0.1/content-trivia-nba-v1.0.1_chunk_01_of_02.bin",
+          "typeId": "trivia",
+          "packId": "nba"
+        },
         {
           "version": "1.0.0",
           "channel": "stable",
