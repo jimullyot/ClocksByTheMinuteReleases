@@ -1,7 +1,28 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T09:53:43Z",
+  "generatedAt": "2026-10-10T12:20:53Z",
   "releases": [
+    {
+      "version": "3.3.15",
+      "channel": "stable",
+      "publishedAt": "2026-10-10T12:20:53Z",
+      "firmwareUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/v3.3.15/ClocksByTheMinute-3.3.15.bin",
+      "sha256": "1fbd17cfcd485077ef9a8d992dd2c785efdbc9c884fcceb592a0dd61409a20fb",
+      "size": 3270304,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
+      "changelog": {
+        "improvements": [
+          "Marine and NBA clocks show their own clock on the Settings screens' back-to-clock button."
+        ],
+        "fixes": [],
+        "notes": []
+      },
+      "chunkSize": 262144,
+      "chunkCount": 13
+    },
     {
       "version": "3.3.14",
       "channel": "stable",
