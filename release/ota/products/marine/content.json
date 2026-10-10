@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-16T12:52:26Z",
+  "generatedAt": "2026-10-10T11:52:27Z",
   "packs": {
     "trivia/marine": {
       "id": "trivia/marine",
@@ -11,6 +11,38 @@
       "shortName": "Marine",
       "otaAvailable": true,
       "releases": [
+        {
+          "version": "1.4.0",
+          "channel": "stable",
+          "publishedAt": "2026-10-10T11:52:27Z",
+          "bundleUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/content-trivia-marine-v1.4.0/content-trivia-marine-1.4.0.zip",
+          "bundleFilename": "content-trivia-marine-1.4.0.zip",
+          "sha256": "066f73323c8c093bc68dc2b9c93f64e7c135bc8357e780e8bfa9fc2658a2ee6a",
+          "size": 437143,
+          "uncompressedSize": 955398,
+          "deprecated": false,
+          "invalid": false,
+          "replacementVersion": "",
+          "reason": "",
+          "changelog": {
+            "improvements": [
+              "Freshwater game fish: walleye, sauger, zander, yellow perch, smallmouth bass, burbot, brown trout, brook trout and lake trout.",
+              "More rainbow trout questions, including steelhead.",
+              "2,647 questions across 183 species, every one reachable from the clock."
+            ],
+            "fixes": [
+              "Rainbow trout lifespan corrected to about 11 years.",
+              "Diet questions no longer offer a wrong answer that eats the same food.",
+              "Removed an Atlantic salmon question that other fish also answered."
+            ],
+            "notes": []
+          },
+          "chunkSize": 131072,
+          "chunkCount": 4,
+          "chunkUrlExample": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/content-trivia-marine-v1.4.0/content-trivia-marine-v1.4.0_chunk_01_of_04.bin",
+          "typeId": "trivia",
+          "packId": "marine"
+        },
         {
           "version": "1.2.0",
           "channel": "stable",
