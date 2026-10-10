@@ -1,8 +1,33 @@
 {
   "schemaVersion": 1,
   "component": "assets",
-  "generatedAt": "2026-08-16T12:51:25Z",
+  "generatedAt": "2026-10-10T12:49:53Z",
   "releases": [
+    {
+      "version": "1.0.1",
+      "channel": "stable",
+      "publishedAt": "2026-10-10T12:49:53Z",
+      "bundleUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/assets-nba-v1.0.1/assets-nba-1.0.1.zip",
+      "bundleFilename": "assets-nba-1.0.1.zip",
+      "sha256": "75996f2703ae1a2acc8d434b6821b8d482233946639598333251381d17cef4e0",
+      "size": 299062,
+      "uncompressedSize": 296880,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
+      "changelog": {
+        "improvements": [],
+        "fixes": [
+          "The anchor on the Settings menu's Holidays tile is now brass, so it no longer disappears in dark mode."
+        ],
+        "notes": []
+      },
+      "chunkSize": 131072,
+      "chunkCount": 3,
+      "chunkUrlExample": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/assets-nba-v1.0.1/assets-nba-v1.0.1_chunk_01_of_03.bin",
+      "scope": "nba"
+    },
     {
       "version": "1.0.0",
       "channel": "stable",
