@@ -1,24 +1,27 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T12:22:59Z",
+  "generatedAt": "2026-10-10T09:06:11Z",
   "release": {
-    "version": "3.3.11",
+    "version": "3.3.12",
     "channel": "stable",
-    "publishedAt": "2026-10-03T10:34:33Z",
-    "firmwareUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/v3.3.11/ClocksByTheMinute-3.3.11.bin",
-    "sha256": "b8d65c38de265201802ccffc46cca3c50a84b725d40343025e8e5ba374392b61",
-    "size": 3205472,
+    "publishedAt": "2026-10-10T09:06:11Z",
+    "firmwareUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/v3.3.12/ClocksByTheMinute-3.3.12.bin",
+    "sha256": "14c2c6df0598351294b083b9d92c83f6047323b3feec986be129ee9cb8ee4573",
+    "size": 3269904,
     "deprecated": false,
     "invalid": false,
     "replacementVersion": "",
     "reason": "",
     "changelog": {
       "improvements": [
-        "The Wi-Fi Connect button stays off until a network name is entered"
+        "Get Help: see your support cases, send logs and add notes right from the clock",
+        "Tell support when a problem is fixed, or reopen it if it comes back",
+        "A notice on the main screen when support replies, an update is ready, or there is a message for your clock",
+        "Messages from Scripture Time, with a switch to turn announcements off",
+        "The clock checks for updates once a day on its own"
       ],
       "fixes": [
-        "The screen no longer flickers a few seconds after changing a setting",
-        "A setup self-check no longer reports missing artwork on clocks that have it"
+        "The clock rejoins Wi-Fi by itself if the network drops it"
       ],
       "notes": []
     },
