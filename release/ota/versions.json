@@ -1,7 +1,30 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T12:20:53Z",
+  "generatedAt": "2026-10-11T15:51:07Z",
   "releases": [
+    {
+      "version": "3.3.16",
+      "channel": "stable",
+      "publishedAt": "2026-10-11T15:51:07Z",
+      "firmwareUrl": "https://github.com/jimullyot/ClocksByTheMinuteReleases/releases/download/v3.3.16/ClocksByTheMinute-3.3.16.bin",
+      "sha256": "34d24ce410f9f3d20f3c9e5c61fc1927222ee8cd52a921500f757eedc0788fdd",
+      "size": 3271680,
+      "deprecated": false,
+      "invalid": false,
+      "replacementVersion": "",
+      "reason": "",
+      "changelog": {
+        "improvements": [
+          "Facts and trivia clocks say Font Size and Example Text on the Clock Settings screen instead of verse wording."
+        ],
+        "fixes": [
+          "After a power cut the clock keeps trying to join Wi-Fi and set the time at startup instead of giving up after the first try, and stops trying if you change the network name or password."
+        ],
+        "notes": []
+      },
+      "chunkSize": 262144,
+      "chunkCount": 13
+    },
     {
       "version": "3.3.15",
       "channel": "stable",
